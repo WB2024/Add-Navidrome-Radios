@@ -1,3 +1,5 @@
+# [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/succinctrecords)
+
 # 🎵 Navidrome Radio Station Manager
 
 A powerful CLI tool to search, browse, and manage internet radio stations for [Navidrome](https://www.navidrome.org/) using the [Radio-Browser](https://www.radio-browser.info/) API.
